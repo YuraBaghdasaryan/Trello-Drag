@@ -1,0 +1,21 @@
+.dimg1{
+    background-image: url("http://localhost:3000/4.jpeg");
+    min-height: 100vh;
+    background-size: cover;
+    border-radius: 8px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 40px;
+    input{
+        margin-left: 20px;
+        margin-left: 20px;
+        width: 400px;
+        display: grid;
+        padding: 10px;
+        height: 50px;
+        margin-bottom: 40px;
+        
+      }
+}
